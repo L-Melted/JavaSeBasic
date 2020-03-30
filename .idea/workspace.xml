@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0859e5bb-1c05-4171-a0f7-a8eade49f412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/调用方法的三种形式/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="304">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -96,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/调用方法的三种形式/Demo03.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java" />
       </list>
     </option>
   </component>
@@ -112,8 +119,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="967" />
-    <option name="width" value="960" />
+    <option name="x" value="1007" />
+    <option name="width" value="920" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -147,7 +154,7 @@
               <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="方法概念的简单介绍" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
@@ -155,7 +162,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="方法概念的简单介绍" type="462c0819:PsiDirectoryNode" />
-              <item name="方法重载" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,18 +265,25 @@
       <option name="presentableId" value="Default" />
       <updated>1585541400100</updated>
       <workItem from="1585541405323" duration="488000" />
-      <workItem from="1585572958136" duration="5027000" />
+      <workItem from="1585572958136" duration="8731000" />
     </task>
+    <task id="LOCAL-00001" summary="方法概念的简单介绍--bylM">
+      <created>1585580471598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585580471599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5515000" />
+    <option name="totallyTimeSpent" value="9219000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="967" y="0" width="960" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="101" y="-8" width="1827" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05111111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26994908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,13 +294,13 @@
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10283316" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3326338" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.23700623" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -339,6 +352,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="方法概念的简单介绍--bylM" />
+    <option name="LAST_COMMIT_MESSAGE" value="方法概念的简单介绍--bylM" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,8 +396,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="304">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
         </state>
       </provider>
     </entry>
