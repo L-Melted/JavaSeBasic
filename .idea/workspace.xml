@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0859e5bb-1c05-4171-a0f7-a8eade49f412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="535">
+              <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -36,42 +41,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-              <folding>
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -103,10 +72,11 @@
         <option value="$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Test02Phone.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Phone.java" />
-        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo01.java" />
       </list>
     </option>
   </component>
@@ -122,9 +92,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1002" />
-    <option name="width" value="925" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1007" />
+    <option name="width" value="920" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -158,14 +128,7 @@
               <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Java虚拟机的内存分布" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="类与对象封装构造方法" type="462c0819:PsiDirectoryNode" />
+              <item name="String类Static关键字Arrays类Math类" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,26 +161,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStudent">
+  <component name="RunManager" selected="Application.demo01">
     <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.lm.demo.方法概念的简单介绍.方法重载.Demo03" />
       <module name="JavaSe基础" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.lm.demo.方法概念的简单介绍.方法重载.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo.方法概念的简单介绍.调用方法的三种形式.Demo03" />
-      <module name="JavaSe基础" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.lm.demo.方法概念的简单介绍.调用方法的三种形式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,13 +214,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo.String类Static关键字Arrays类Math类.demo01" />
+      <module name="JavaSe基础" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lm.demo.String类Static关键字Arrays类Math类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01" />
         <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.Test02Phone" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Demo03 (1)" />
-        <item itemvalue="Application.Demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +249,7 @@
       <updated>1585541400100</updated>
       <workItem from="1585541405323" duration="488000" />
       <workItem from="1585572958136" duration="8731000" />
-      <workItem from="1585667476164" duration="3212000" />
+      <workItem from="1585667476164" duration="5115000" />
     </task>
     <task id="LOCAL-00001" summary="方法概念的简单介绍--bylM">
       <created>1585580471598</created>
@@ -295,17 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1585580471599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="类与对象封装构造方法&#10;--bylM">
+      <created>1585670826159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585670826159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22438000" />
+    <option name="totallyTimeSpent" value="24341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1002" y="0" width="925" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="1007" y="0" width="920" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26242775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30930233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -314,7 +283,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3441763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31479537" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40092167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,7 +307,7 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26242775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26202604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +316,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3441763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25363827" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40092167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,7 +345,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="方法概念的简单介绍--bylM" />
-    <option name="LAST_COMMIT_MESSAGE" value="方法概念的简单介绍--bylM" />
+    <MESSAGE value="类与对象封装构造方法&#10;--bylM" />
+    <option name="LAST_COMMIT_MESSAGE" value="类与对象封装构造方法&#10;--bylM" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
@@ -437,27 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -476,8 +425,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="297">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="113" column="17" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
