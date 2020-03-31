@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0859e5bb-1c05-4171-a0f7-a8eade49f412" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,24 +21,57 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
+            <state relative-caret-position="108">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -64,6 +101,12 @@
         <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Test02Phone.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Phone.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java" />
       </list>
     </option>
   </component>
@@ -80,44 +123,56 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1007" />
-    <option name="width" value="920" />
+    <option name="x" value="1002" />
+    <option name="width" value="925" />
     <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaSe基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSe基础" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaSe基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSe基础" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaSe基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSe基础" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaSe基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Java虚拟机的内存分布" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="类与对象封装构造方法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.TestStudent">
     <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.lm.demo.方法概念的简单介绍.方法重载.Demo03" />
       <module name="JavaSe基础" />
@@ -183,12 +238,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo.方法概念的简单介绍.定义方法的两个明确.Method_Demo2" />
+    <configuration name="Test02Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo.类与对象封装构造方法.成员变量和方法.Test02Phone" />
       <module name="JavaSe基础" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lm.demo.方法概念的简单介绍.定义方法的两个明确.*" />
+          <option name="PATTERN" value="cn.lm.demo.类与对象封装构造方法.成员变量和方法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo.类与对象封装构造方法.TestStudent" />
+      <module name="JavaSe基础" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lm.demo.类与对象封装构造方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,10 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.Test02Phone" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Demo03 (1)" />
         <item itemvalue="Application.Demo03" />
-        <item itemvalue="Application.Method_Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +286,7 @@
       <updated>1585541400100</updated>
       <workItem from="1585541405323" duration="488000" />
       <workItem from="1585572958136" duration="8731000" />
+      <workItem from="1585667476164" duration="3212000" />
     </task>
     <task id="LOCAL-00001" summary="方法概念的简单介绍--bylM">
       <created>1585580471598</created>
@@ -229,12 +299,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13231000" />
+    <option name="totallyTimeSpent" value="22438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-8" width="1308" height="784" extended-state="6" />
+    <frame x="1002" y="0" width="925" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11378205" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26242775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -243,7 +314,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2549923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3441763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40092167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,27 +338,27 @@
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36860466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26242775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="MyBatis Log" order="1" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.22350472" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3326338" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3441763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40092167" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.23700623" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,20 +379,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="方法概念的简单介绍--bylM" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java">
+    <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/调用方法的三种形式/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="144">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="e#433#434#0" expanded="true" />
@@ -343,25 +414,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="729">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="405">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/Java虚拟机的内存分布/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/demo_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/成员变量和方法/Test02Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
