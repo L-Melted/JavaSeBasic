@@ -1,4 +1,4 @@
-package cn.lm.demo.类与对象封装构造方法;
+package cn.lm.demo.day08_类与对象封装构造方法;
 
 public class TestStudent {
     public static void main(String[] args) {

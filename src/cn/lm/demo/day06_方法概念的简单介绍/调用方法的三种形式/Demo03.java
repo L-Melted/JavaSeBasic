@@ -1,4 +1,4 @@
-package cn.lm.demo.方法概念的简单介绍.调用方法的三种形式;
+package cn.lm.demo.day06_方法概念的简单介绍.调用方法的三种形式;
 
 public class Demo03 {
     public static void main(String[] args) {

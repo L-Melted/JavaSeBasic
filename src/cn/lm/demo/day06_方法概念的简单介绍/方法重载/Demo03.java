@@ -1,4 +1,4 @@
-package cn.lm.demo.方法概念的简单介绍.方法重载;
+package cn.lm.demo.day06_方法概念的简单介绍.方法重载;
 
 public class Demo03 {
 

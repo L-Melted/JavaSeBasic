@@ -1,4 +1,4 @@
-package cn.lm.demo.数组;
+package cn.lm.demo.day05_数组;
 
 public class Demo01 {
     /**

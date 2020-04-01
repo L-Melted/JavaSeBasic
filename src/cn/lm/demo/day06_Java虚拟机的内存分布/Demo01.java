@@ -1,4 +1,4 @@
-package cn.lm.demo.Java虚拟机的内存分布;
+package cn.lm.demo.day06_Java虚拟机的内存分布;
 
 public class Demo01 {
     /**
