@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.StreamDemo;
+package cn.lm.demo1.StreamDemo;
 
 import java.util.ArrayList;
 import java.util.List;

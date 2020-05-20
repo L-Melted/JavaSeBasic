@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.SafeThread;
+package cn.lm.demo1.SafeThread;
 
 public class TicketTest {
 

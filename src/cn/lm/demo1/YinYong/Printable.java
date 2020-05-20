@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.YinYong;
+package cn.lm.demo1.YinYong;
 
 @FunctionalInterface
 public interface Printable {

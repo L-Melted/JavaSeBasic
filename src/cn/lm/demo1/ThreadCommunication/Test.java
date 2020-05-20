@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.ThreadCommunication;
+package cn.lm.demo1.ThreadCommunication;
 
 public class Test {
     public static void main(String[] args) {

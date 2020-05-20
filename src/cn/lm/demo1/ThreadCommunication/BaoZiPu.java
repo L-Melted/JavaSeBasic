@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.ThreadCommunication;
+package cn.lm.demo1.ThreadCommunication;
 
 public class BaoZiPu implements Runnable{
     BaoZi baoZi;

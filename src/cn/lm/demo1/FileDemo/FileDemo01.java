@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.FileDemo;
+package cn.lm.demo1.FileDemo;
 
 import java.io.File;
 import java.io.IOException;

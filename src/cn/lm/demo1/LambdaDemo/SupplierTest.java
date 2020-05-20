@@ -1,4 +1,4 @@
-package cn.lm.demo1.thread类.LambdaDemo;
+package cn.lm.demo1.LambdaDemo;
 
 import java.util.function.Supplier;
 
