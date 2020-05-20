@@ -5,52 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0859e5bb-1c05-4171-a0f7-a8eade49f412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/CallableTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/CallableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/ConsumerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/ConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/PredicateDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/SupplierDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/SupplierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/NoImplClassTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/NoImplClassTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/NoImplClassTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/RunnableDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/RunnableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/SafeThread/TicketTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/SafeThread/TicketTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/BaoZi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/BaoZiPu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/ChiHuo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/javaSe/day01_Object类常用API/CalendarDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/javaSe/day01_Object类常用API/SystemsDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/ConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/SupplierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/SupplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/NoImplClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/RunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/SafeThread/TicketTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/SafeThread/TicketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/ThreadCommunication/BaoZi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/ThreadCommunication/BaoZiPu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/ThreadCommunication/ChiHuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/ThreadCommunication/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/javaSe/day01_Object类常用API/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/javaSe/day01_Object类常用API/SystemsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/FileDemo/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/DemoForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/MyThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/MyThreadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/MyThreadDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/MyThreadDemoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/MyThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/MyThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/MyThreadDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/lm/demo1/thread类/MyThreadDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.class" afterDir="false" />
     </list>
     <list id="7a6066db-1183-4b8c-a1af-ba6313750a93" name="Revert &quot;接口的简单介绍 --bylM&quot;" comment="Revert &quot;接口的简单介绍 --bylM&quot;&#10;&#10;This reverts commit b60e56e3" />
     <list id="73690ec8-8e57-4ec8-a949-48f2cf24092d" name="Revert: 接口的简单介绍 --bylM" comment="" />
@@ -67,20 +29,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/Printable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/function/Function.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/FileDemo/FileDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
-              <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/MyClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,9 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/定义方法的两个明确/Method_Demo2.java" />
-        <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/调用方法的三种形式/Demo03.java" />
-        <option value="$PROJECT_DIR$/src/cn/lm/demo/方法概念的简单介绍/方法重载/Demo03.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/数组/Demo01.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo/类与对象封装构造方法/Test02Phone.java" />
@@ -163,6 +147,12 @@
         <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/PredicateDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/DemoForeach.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/Printable.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/lm/demo1/thread类/FileDemo/FileDemo01.java" />
       </list>
     </option>
   </component>
@@ -178,10 +168,11 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1007" />
-    <option name="width" value="920" />
-    <option name="height" value="1087" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="237" />
+    <option name="y" value="249" />
+    <option name="width" value="1809" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,13 +206,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lm" type="462c0819:PsiDirectoryNode" />
               <item name="thread类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSeBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSeBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lm" type="462c0819:PsiDirectoryNode" />
-              <item name="day01_Object类常用API" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,13 +247,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionDemo02">
-    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.LambdaDemo.ConsumerDemo" />
+  <component name="RunManager" selected="Application.FileDemo01">
+    <configuration name="DemoForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.StreamDemo.DemoForeach" />
       <module name="JavaSe基础" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lm.demo1.thread类.LambdaDemo.*" />
+          <option name="PATTERN" value="cn.lm.demo1.thread类.StreamDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,25 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.LambdaDemo.ConsumerTest" />
+    <configuration name="FileDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.FileDemo.FileDemo01" />
       <module name="JavaSe基础" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lm.demo1.thread类.LambdaDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.LambdaDemo.FunctionDemo" />
-      <module name="JavaSe基础" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.lm.demo1.thread类.LambdaDemo.*" />
+          <option name="PATTERN" value="cn.lm.demo1.thread类.FileDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +287,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.LambdaDemo.PredicateDemo" />
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.StreamDemo.StreamDemo" />
       <module name="JavaSe基础" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lm.demo1.thread类.LambdaDemo.*" />
+          <option name="PATTERN" value="cn.lm.demo1.thread类.StreamDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YinYongTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lm.demo1.thread类.YinYong.YinYongTest" />
+      <module name="JavaSe基础" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lm.demo1.thread类.YinYong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileDemo01" />
+        <item itemvalue="Application.YinYongTest" />
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.DemoForeach" />
         <item itemvalue="Application.FunctionDemo02" />
-        <item itemvalue="Application.FunctionDemo" />
-        <item itemvalue="Application.PredicateDemo" />
-        <item itemvalue="Application.ConsumerTest" />
-        <item itemvalue="Application.ConsumerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +338,7 @@
       <workItem from="1585667476164" duration="5115000" />
       <workItem from="1586875932457" duration="6858000" />
       <workItem from="1589445776229" duration="239000" />
-      <workItem from="1589701599188" duration="21819000" />
+      <workItem from="1589701599188" duration="27278000" />
     </task>
     <task id="LOCAL-00001" summary="方法概念的简单介绍--bylM">
       <created>1585580471598</created>
@@ -377,16 +361,24 @@
       <option name="project" value="LOCAL" />
       <updated>1586909344798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Thread/Lambda&#10;&#10;--bylM">
+      <created>1589905552495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589905552496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68438000" />
+    <option name="totallyTimeSpent" value="73897000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="101" y="-8" width="1827" height="1096" extended-state="6" />
+    <frame x="223" y="486" width="1809" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17883419" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15894797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,8 +387,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21413721" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2864638" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23580247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17463617" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -500,7 +492,8 @@
     <MESSAGE value="类与对象封装构造方法&#10;--bylM" />
     <MESSAGE value="final权限内部类引用类型&#10;&#10;--bylM" />
     <MESSAGE value="data&#10;&#10;--bylM" />
-    <option name="LAST_COMMIT_MESSAGE" value="data&#10;&#10;--bylM" />
+    <MESSAGE value="Thread/Lambda&#10;&#10;--bylM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread/Lambda&#10;&#10;--bylM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,64 +510,30 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java</url>
+          <line>12</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/MyClass.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
-    <entry file="jar://D:/DevelopmentTools/Java/jdk1.8.0_201/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo01_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/String类Static关键字Arrays类Math类/demo02_Static.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="55" column="39" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/继承抽象/Fu.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/继承抽象/TestDemo01.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/继承抽象/Zi.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo/day11_final权限内部类引用类型/Final关键字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demoInterview/Vo.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/demoInterview/vo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/lm/javaSe/day01_Object类常用API/Demo01_Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/javaSe/day01_Object类常用API/CalendarDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -895,14 +854,112 @@
     <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="433">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/stream/StreamSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1635">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="580" column="32" selection-start-line="580" selection-start-column="32" selection-end-line="580" selection-end-column="32" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/DemoForeach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="153" column="11" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/DevelopmentTools/Java/jdk1.8.0_152/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/StreamDemo/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/Printable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/YinYong/YinYongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/thread类/FileDemo/FileDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
