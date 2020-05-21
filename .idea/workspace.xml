@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0859e5bb-1c05-4171-a0f7-a8eade49f412" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/反射/FieldDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/反射/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/网络编程/TcpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/lm/demo1/网络编程/TcpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/FileDemo/FileDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/CallableTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/CallableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/ConsumerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/ConsumerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/FunctionDemo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/PredicateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/SupplierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/LambdaDemo/SupplierTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/SafeThread/TicketTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/SafeThread/TicketTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/StreamDemo/DemoForeach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/StreamDemo/StreamDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/BaoZi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/BaoZiPu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/ChiHuo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/ThreadCommunication/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/YinYong/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/YinYong/Printable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe基础/cn/lm/demo1/thread类/YinYong/YinYongTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/lm/demo1/反射/FieldDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/lm/demo1/反射/FieldDemoTest.java" afterDir="false" />
     </list>
     <list id="7a6066db-1183-4b8c-a1af-ba6313750a93" name="Revert &quot;接口的简单介绍 --bylM&quot;" comment="Revert &quot;接口的简单介绍 --bylM&quot;&#10;&#10;This reverts commit b60e56e3" />
     <list id="73690ec8-8e57-4ec8-a949-48f2cf24092d" name="Revert: 接口的简单介绍 --bylM" comment="" />
@@ -64,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/反射/FieldDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+            <state relative-caret-position="490">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -381,7 +357,7 @@
       <workItem from="1586875932457" duration="6858000" />
       <workItem from="1589445776229" duration="239000" />
       <workItem from="1589701599188" duration="29500000" />
-      <workItem from="1590027449405" duration="2521000" />
+      <workItem from="1590027449405" duration="2636000" />
     </task>
     <task id="LOCAL-00001" summary="方法概念的简单介绍--bylM">
       <created>1585580471598</created>
@@ -425,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589994960392</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="注解&#10;&#10;--bylM">
+      <created>1590040870941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590040870941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -455,13 +438,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78640000" />
+    <option name="totallyTimeSpent" value="78755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="-8" width="1827" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20411664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20373514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,7 +454,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.14318182" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.19750519" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.1964657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -580,7 +563,8 @@
     <MESSAGE value="Thread/Lambda&#10;&#10;--bylM" />
     <MESSAGE value="File文件的创建&#10;&#10;--bylM" />
     <MESSAGE value="xiugai&#10;&#10;--bylM" />
-    <option name="LAST_COMMIT_MESSAGE" value="xiugai&#10;&#10;--bylM" />
+    <MESSAGE value="注解&#10;&#10;--bylM" />
+    <option name="LAST_COMMIT_MESSAGE" value="注解&#10;&#10;--bylM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1059,8 +1043,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/lm/demo1/反射/FieldDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+        <state relative-caret-position="490">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

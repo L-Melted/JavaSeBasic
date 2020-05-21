@@ -53,9 +53,5 @@ public class FieldDemoTest {
 
         Object o = declaredFields[0].get(aClass.newInstance());
         System.out.println(o);
-
     }
-
-
-
 }
